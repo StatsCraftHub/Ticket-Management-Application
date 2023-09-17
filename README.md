@@ -18,6 +18,6 @@ Date Calculations: It calculates the time taken for each ticket by computing the
 
 Date Filters: The app includes a date filter to focus on tickets created within the last three months. This filter enhances data analysis and helps users identify recent trends and patterns.
 
-Practical Application: This project is ideal for pharmaceutical companies or departments that need a digital solution for managing tasks, tracking ticket statuses, and gaining insights into their workflow efficiency.
+Practical Application: This project is ideal for companies or departments that need a digital solution for managing tasks, tracking ticket statuses, and gaining insights into their workflow efficiency.
 
-Continuous Improvement: The app can be further enhanced by adding user authentication, additional data analytics features, and the ability to export data for reporting purposes, making it an even more valuable tool for pharmaceutical ticket management.
+Continuous Improvement: The app can be further enhanced by adding user authentication, additional data analytics features, and the ability to export data for reporting purposes, making it an even more valuable tool for ticket management.
